@@ -1,0 +1,21 @@
+/* 全局定义 */
+body{height:100%;}
+.wrap{background:url(../img/loginbg.gif) repeat-x 0 0 scroll transparent ; background-color:#1675B7; color:#1675B7;  position:absolute; height:100%; width:100%; bottom:0; top:0; }
+
+/* header */
+.header{background:url(../img/logintop.gif) no-repeat center top scroll transparent ; height:223px;text-align:center;}
+.header img{margin-top:100px;}
+
+/* main */
+.main{background:url(../img/logincenter.gif) no-repeat scroll center top transparent; height:202px; text-align:center; padding-top:40px;}
+.register{width:935px; margin:0 auto;}
+.register span{height:30px; line-height:30px; float:left; padding-left:300px;}
+.main .register .user-password{margin-top:20px;}
+.main .register input{width:140px; height:30px; margin-left:15px; line-height:30px;}
+.register .register-button{margin-top:15px;}
+.register .register-button .user-enter{background:url(../img/button_r_b.png) 0 0 no-repeat scroll transparent; border:none; margin:0px; width:85px; height:25px; line-height:24px; color:white;}
+.register .register-button .user-register{background:url(../img/button_g_b.png) 0 0 no-repeat scroll transparent; border:none; margin:0px; width:85px; height:25px; line-height:24px;  color:white;}
+.register p{margin-top:15px;}
+
+/* footer */
+.footer{text-align:center;}
